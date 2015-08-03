@@ -141,7 +141,7 @@ T 22000 17900 15 8 1 0 0 4 1
 T 15900 1600 5 10 1 1 0 0 1
 file=bcc_hfsdr_pg2.sch
 T 19900 1300 5 10 1 1 0 0 1
-author=Eric Brombaugh / Tom King
+author=Tom King / Eric Brombaugh
 }
 T 19900 1600 9 10 1 0 0 0 1
 -

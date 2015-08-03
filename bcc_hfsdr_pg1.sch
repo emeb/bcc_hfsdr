@@ -141,7 +141,7 @@ B 1000 1000 22000 17000 15 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 15900 1600 5 10 1 1 0 0 1
 file=bcc_hfsdr_pg1.sch
 T 19900 1300 5 10 1 1 0 0 1
-author=Eric Brombaugh / Tom King
+author=Tom King / Eric Brombaugh
 }
 C 13800 2000 1 0 0 EMBEDDEDmount_hole.sym
 [
@@ -1480,7 +1480,7 @@ refdes=C107
 T 15100 9600 5 10 1 1 0 0 1
 value=10uF 10V
 T 16200 9400 5 10 0 0 0 0 1
-footprint=my_0805
+footprint=1206_pol
 }
 C 15000 9400 1 90 0 EMBEDDEDcapacitor-1.sym
 [
@@ -5109,3 +5109,5 @@ N 15400 5300 18000 5300 4
 T 17600 5300 5 10 1 1 0 0 1
 netname=JA2
 }
+T 15400 9400 9 10 1 0 0 0 1
+Tant.

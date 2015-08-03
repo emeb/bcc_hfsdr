@@ -139,7 +139,7 @@ graphical=1
 ]
 {
 T 34500 27800 5 10 1 1 0 0 1
-author=Eric Brombaugh/Tom King
+author=Tom King / Eric Brombaugh
 T 30600 28100 5 10 1 1 0 0 1
 file=bcc_hfsdr_pg3.sch
 }
@@ -1076,7 +1076,7 @@ device=HEADER46
 T 20900 43300 5 10 0 0 0 0 1
 footprint=HEADER46_2
 T 20300 34000 5 10 1 1 180 0 1
-refdes=J102
+refdes=P8
 }
 C 31300 43300 1 180 0 EMBEDDEDheader46-1.sym
 [
@@ -1628,7 +1628,7 @@ device=HEADER46
 T 31300 43300 5 10 0 0 0 0 1
 footprint=HEADER46_2
 T 30700 34000 5 10 1 1 180 0 1
-refdes=J103
+refdes=P9
 }
 C 19100 42800 1 0 0 EMBEDDEDgnd-1.sym
 [
