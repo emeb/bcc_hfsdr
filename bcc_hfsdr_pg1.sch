@@ -3945,7 +3945,7 @@ device=BNC
 T 15700 17200 5 10 1 1 0 6 1
 refdes=J103
 T 15700 16400 5 10 0 0 0 0 1
-footprint=SMA_ENDLAUNCH
+footprint=SMA_ENDLAUNCH_dual
 }
 C 15500 16100 1 0 0 EMBEDDEDgnd-1.sym
 [

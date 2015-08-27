@@ -245,7 +245,7 @@ device=BNC
 T 22500 14200 5 10 1 1 0 6 1
 refdes=J201
 T 22500 13400 5 10 0 0 0 0 1
-footprint=SMA_ENDLAUNCH
+footprint=SMA_ENDLAUNCH_dual
 }
 C 22400 8400 1 0 1 EMBEDDEDBNC-1.sym
 [
@@ -290,7 +290,7 @@ device=BNC
 T 22400 9200 5 10 1 1 0 6 1
 refdes=J202
 T 22400 8400 5 10 0 0 0 0 1
-footprint=SMA_ENDLAUNCH
+footprint=SMA_ENDLAUNCH_dual
 }
 C 15200 13200 1 0 0 EMBEDDEDgnd-1.sym
 [
