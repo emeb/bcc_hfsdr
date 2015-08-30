@@ -1335,7 +1335,7 @@ refdes=C208
 T 9200 12100 5 10 1 1 180 0 1
 value=10uf
 T 9600 11700 5 10 0 0 0 0 1
-footprint=1206_poi
+footprint=1206_pol
 }
 C 10600 11700 1 90 0 EMBEDDEDcapacitor-1.sym
 [

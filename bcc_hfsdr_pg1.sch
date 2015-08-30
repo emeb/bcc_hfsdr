@@ -4295,7 +4295,7 @@ footprint=SO16
 T 14300 5200 5 10 1 1 0 0 1
 device=PCF8574
 T 13000 5200 5 10 1 1 0 0 1
-refdes=U?
+refdes=U102
 }
 C 15700 4700 1 0 0 EMBEDDEDoutput-1.sym
 [

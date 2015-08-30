@@ -1,4 +1,4 @@
-schematics		bcc_hfsdr_pg1.sch bcc_hfsdr_pg2.sch
+schematics		bcc_hfsdr_pg1.sch bcc_hfsdr_pg2.sch bcc_hfsdr_pg3.sch
 output-name		bcc_hfsdr
 elements-dir	../pcb-elements/
 skip-m4
